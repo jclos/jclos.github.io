@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html><head>
+<title>J&eacute;r&eacute;mie Clos</title>
+<meta name="description" content="website description">
+<meta name="keywords" content="website keywords, website keywords">
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<link rel="stylesheet" type="text/css" href="style/style.css" title="style">
+<link rel="apple-touch-icon" sizes="57x57" href="style/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="style/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="style/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="style/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="style/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="style/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="style/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="style/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="style/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="style/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="style/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="style/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="style/favicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="style/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<style>
+ul#socialmedia li {
+    display:inline;
+}
+#socialmedia{
+	list-style:none
+}
+</style>
+</head>
+<body>
+  <script>
+    function random_text(){
+      var titles = new Array();
+      titles[1] = ' I also like to lift weights as a hobby.';
+      titles[2] = ' What is this sleep thing people keep talking about?';
+      titles[3] = ' My blood is mostly coffee with a few red blood cells here and there.';
+      titles[4] = ' Baker (and victim) of delicious chocolate chip cookies.';
+      var rand = Math.floor(Math.random()*titles.length);
+      if (rand==0)
+        rand=1;
+      return(titles[rand]);
+    }
+</script>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <h1><a href="index.html"><span class="logo_colour">J&eacute;r&eacute;mie Clos</span></a></h1>
+		      <h2>Researcher by day. Also researcher by night.<script>document.write(random_text());</script></h2>
+        </div>
+      </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <p>
+          <img src="style/me.jpg" alt="Jeremie Clos" style="width:180px;height:180px;" class="img-circle"/>
+        </p>
+      </div>
+		<div id="content">
+			Here is a list of projects I am keen to work on with potential undergraduate and MSc students. [Work in progress]
+			<br/>&nbsp;<br/>&nbsp;
+			<ul>
+				<li><strong>1. Experimental projects.</strong>
+					<ul>
+						<li><strong>1.1. Adaptive sampling methods for few shots learning</strong>
+						<p>
+							In this project, we will investigate a new algorithm that selectively samples training instances in order to enhance budget efficiency.
+						</p>
+						</li>
+						<li><strong>1.2. Network regularisation for model interpretability</strong>
+						<p>
+							This project is an investigation on the effect of soft architectural constraints on a neural network interpretability.
+						</p>
+						</li>
+					</ul>
+				
+				
+				</li>
+				<li><strong>2. Applied projects.</strong>
+					<ul>
+						<li><strong>2.1. A CBR system for semi-automated essay marking.</strong> 
+						<p>
+							This project Case-Based Reasoning with uncertainty estimation in order to provide a system that can automatically mark essays based on a marking grid and a few examples, in order to enhance distance learning platforms.
+						</p>
+						</li>
+						<li><strong>2.2. An open source framework to build labeling software.</strong> 
+						<p>
+							One of the major pain points when investigating new venues in machine learning is the creation of a good dataset. 
+							One of the reasons for this is that labeling data is hard, and software designed to ease that process is scarce and expensive. 
+							This project aims at producing an open source alternative to those solutions, where the designer of the experiment can implement a hosted personalised labeling software in a couple of hours.
+						</p>
+						</li>				
+					</ul>
+				</li>
+				
+			</ul>
+        
+		</div>
+    </div>
+  </div>
+</body>
+</html>
