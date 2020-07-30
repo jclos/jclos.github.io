@@ -1,3 +1,25 @@
+.color1 {color: #99c8b5;}
+.color2 {color: #d5ceaa;}
+.color3 {color: #4d213b;}
+.color4 {color: #9a6e6f;}
+.color5 {color: #b69780;}
+
+:root {
+	--pink: #b252a1;
+	--blue: #66a1d2;
+	--purple: #2c0452;
+	--gray: #455f65;
+	--white: #dcd5d5;
+	--darkblue: #2c3552;
+	--black: #262626;
+	--color1: #99c8b5;
+	--color2: #d5ceaa;
+	--color3: #4d213b;
+	--color4: #9a6e6f;
+	--color5: #b69780;
+}
+
+
 html
 { height: 100%;}
 
@@ -7,39 +29,47 @@ html
 
 body
 { font: normal .78em arial, sans-serif;
-  background: #444444;
-  color: #555;}
+  background: var(--darkblue);
+  color: black;}
 
 p
-{ padding: 0 0 16px 0;
-  line-height: 1.7em;}
+{ padding: 0 0 18px 0;
+  line-height: 1.5em;}
 
 img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 175% 'century gothic', arial, sans-serif;
-  color: #111;
+{ font: bold 175% 'century gothic', arial, sans-serif;
+  color: var(--black);
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
 
 h2
 { font: normal 175% 'century gothic', arial, sans-serif;
-  color: #444;}
+  color: var(--black);}
+  
+h3
+{
+margin: 0;
+  padding: 0 0 5px 0;
+  font: normal 130% arial, sans-serif;
+  color: var(--black);
+}
 
 h4, h5, h6
 { margin: 0;
   padding: 0 0 5px 0;
-  font: normal 120% arial, sans-serif;
-  color: #555;}
+  font: normal 130% arial, sans-serif;
+  color: var(--black);}
 
 h5, h6
 { font: italic 95% arial, sans-serif;
   padding: 0 0 15px 0;
-  color: #000;}
+  color: var(--black);}
 
 h6
-{ color: #888;}
+{ color: var(--black);}
 
 a, a:hover
 { outline: none;
@@ -74,18 +104,21 @@ ol li
   margin-right: auto;}
 
 #main
-{ width: 910px;
-  background: url(content.png) repeat-y;}
+{ width: 895px;
+  background: var(--gray);}
 
 #header
 { width: 890px;
-  background: url(back.png) repeat-x;}
+  background: var(--blue);}
 
 #logo
 { width: 890px;
   position: relative;
   height: 100px;
-  background: url(logo.jpg) no-repeat;}
+  background: var(--white);
+  border-bottom: 5px;
+  border-bottom-color: black;
+}
 
 #logo #logo_text 
 { position: absolute; 
@@ -111,6 +144,12 @@ ol li
 { font-size: 130%;
   padding: 0;
   color: #444;}
+  
+.logicalblock
+{
+	border-color: var(--gray);
+}
+  
 
 #menubar
 { width: 890px;
@@ -262,4 +301,50 @@ table tr td
   
 .img-circle {
     border-radius: 50%;
+}
+
+.tag {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    color: white;
+    position: relative;
+    padding: 3px 8px 3px 8px;
+    border-radius: 10px;
+	border-color: black;
+    margin: 0 10px 10px 0;
+    text-decoration: none;
+    -webkit-transition: right 0.2s ease-in;
+    -moz-transition: right 0.2s ease-in;
+    -ms-transition: right 0.2s ease-in;
+    background: #273746;
+}
+ 
+ 
+hr.subsection {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+	margin-bottom: 20px;
+	margin-top: 5px;
+} 
+ 
+hr.section {
+    border: 1;
+    border-bottom: 1px #ccc;
+    background: #999;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+
+a.tag:hover {
+    text-decoration: none;
+	color:white;
+}
+
+p {
+	text-indent: 20pt;
+}
+
+p.noindent {
+	text-indent: 0pt;
 }
