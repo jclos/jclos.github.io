@@ -318,6 +318,22 @@ table tr td
     -ms-transition: right 0.2s ease-in;
     background: #273746;
 }
+
+.button {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    color: white;
+
+    padding: 3px 8px 3px 8px;
+    border-radius: 12px;
+	border-color: black;
+    margin: 0px 0px 0px 0px;
+    text-decoration: none;
+    -webkit-transition: right 0.2s ease-in;
+    -moz-transition: right 0.2s ease-in;
+    -ms-transition: right 0.2s ease-in;
+    background: #9E0000;
+}
  
  
 hr.subsection {
@@ -347,4 +363,10 @@ p {
 
 p.noindent {
 	text-indent: 0pt;
+}
+
+#navbar {
+
+	position: fixed; 
+	top: 1%; 
 }
