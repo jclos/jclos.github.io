@@ -302,6 +302,22 @@ table tr td
 .img-circle {
     border-radius: 50%;
 }
+.button {
+    font-family: Helvetica, Arial, sans-serif;
+    display: inline-block;
+    color: white;
+
+    padding: 3px 8px 3px 8px;
+    border-radius: 12px;
+	border-color: black;
+    margin: 0px 0px 0px 0px;
+    text-decoration: none;
+    -webkit-transition: right 0.2s ease-in;
+    -moz-transition: right 0.2s ease-in;
+    -ms-transition: right 0.2s ease-in;
+    background: #9E0000;
+	 z-index: 10000000;
+}
 
 .tag {
     font-family: Helvetica, Arial, sans-serif;
@@ -317,23 +333,10 @@ table tr td
     -moz-transition: right 0.2s ease-in;
     -ms-transition: right 0.2s ease-in;
     background: #273746;
+		 z-index: 1;
 }
 
-.button {
-    font-family: Helvetica, Arial, sans-serif;
-    display: inline-block;
-    color: white;
 
-    padding: 3px 8px 3px 8px;
-    border-radius: 12px;
-	border-color: black;
-    margin: 0px 0px 0px 0px;
-    text-decoration: none;
-    -webkit-transition: right 0.2s ease-in;
-    -moz-transition: right 0.2s ease-in;
-    -ms-transition: right 0.2s ease-in;
-    background: #9E0000;
-}
  
  
 hr.subsection {
@@ -367,6 +370,6 @@ p.noindent {
 
 #navbar {
 
-	position: fixed; 
+
 	top: 1%; 
 }
