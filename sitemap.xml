@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jclos.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jclos.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/cg/</loc>
+    <loc>https://jclos.github.io/cg/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://jclos.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/dis/</loc>
+    <loc>https://jclos.github.io/dis/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/hii/</loc>
+    <loc>https://jclos.github.io/hii/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jclos.github.io/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://jclos.github.io/projects/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jclos.github.io/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>https://jclos.github.io/teaching/</loc>
   </url>
   
 </urlset>

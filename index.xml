@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremie Clos&#39;s personal page on Jeremie Clos</title>
-    <link>http://example.org/</link>
+    <link>https://jclos.github.io/</link>
     <description>Recent content in Jeremie Clos&#39;s personal page on Jeremie Clos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jclos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://jclos.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://jclos.github.io/about/</guid>
       <description>Work experience    Year Employer Title     2021 - Present University of Nottingham Research Fellow @ TAS Hub   2019 - 2019 University of Nottingham Research Fellow @ ENLIVEN   2018 - Present University of Nottingham Teaching Associate   2017-2017 Robert Gordon University Research Assistant   2015-2017 Cognitive Geology Data Scientist   2009-2012 IRIT Research Lab Summer Research Assistant    Education PhD thesis Robert Gordon University (Aberdeen, Scotland)</description>
     </item>
     
     <item>
       <title>Computer Graphics</title>
-      <link>http://example.org/cg/</link>
+      <link>https://jclos.github.io/cg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/cg/</guid>
+      <guid>https://jclos.github.io/cg/</guid>
       <description>Computer Graphics Back to modules
 Teaching team  Jeremie Clos Vaughan Wang Kristian Spoerer  Core ideas of the module Understanding 3D geometry and 3D transformations, how they relate to what appears on your screen, and how to go from intuition to mathematical formulation to implementation.
 Recommended reading Other reading </description>
@@ -28,10 +28,10 @@ Recommended reading Other reading </description>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://jclos.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
+      <guid>https://jclos.github.io/contact/</guid>
       <description>E-mail  Personal: name.surname@gmail.com Professional: name.surname@nottingham.ac.uk   Mailing Address  Office C53, School of Computer Science, NG8 1BB
 Nottingham
 United Kingdom
@@ -40,10 +40,10 @@ United Kingdom
     
     <item>
       <title>Databases, Interfaces and Software design</title>
-      <link>http://example.org/dis/</link>
+      <link>https://jclos.github.io/dis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/dis/</guid>
+      <guid>https://jclos.github.io/dis/</guid>
       <description>Databases, Interfaces (and Software design) Back to modules
 Teaching team  Stuart Reeves Jeremie Clos  Core ideas of the module Understanding the architecture of web applications from data storage to presentation to the users.
 In this module we focus on the structure of databases, including how to make them fast, efficient and reliable and on the ways of interacting with them via user interfaces. We examine the fundamentals of the relational database model, its mathematical basis, as well as implementations of the model in database management systems (DBMS) and languages to interact with them such as Structured Query Language (SQL).</description>
@@ -51,10 +51,10 @@ In this module we focus on the structure of databases, including how to make the
     
     <item>
       <title>Human-AI Interaction</title>
-      <link>http://example.org/hii/</link>
+      <link>https://jclos.github.io/hii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/hii/</guid>
+      <guid>https://jclos.github.io/hii/</guid>
       <description>Human-AI Interaction Back to modules
 Teaching team  Joel Fischer Jeremie Clos  Core ideas of the module Understanding the challenges of human-AI interaction from a sociological and technical perspective.
 This module is part of the Human-Computer Interaction theme, and the Artificial Intelligence and Optimisation theme in the School of Computer Science. It is an introduction to the design of human-AI interaction to ensure the AI-driven systems we built are beneficial and useful to people.</description>
@@ -62,20 +62,20 @@ This module is part of the Human-Computer Interaction theme, and the Artificial 
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/projects/</link>
+      <link>https://jclos.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/</guid>
+      <guid>https://jclos.github.io/projects/</guid>
       <description>Projects 1. Read this first If you contact me and it is obvious from your e-mail that you did not read this page, I will ignore your request.
 Because 2020 was a dumpster fire of a year, and the world does not seem to be going in an upward direction, I am progressively shifting my focus to supervising projects for social good, i.e. projects which have a net positive or at least a net neutral ethical footprint.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://example.org/teaching/</link>
+      <link>https://jclos.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/teaching/</guid>
+      <guid>https://jclos.github.io/teaching/</guid>
       <description>Modules    Year Term Module     2020-2021 Spring Databases and Interfaces ; Computer Graphics   2020-2021 Autumn Human-AI Interaction ; Databases, Interfaces and Software design   2019-2020 Spring Databases and Interfaces ; Computer Graphics   2019-2020 Autumn Databases, Interfaces and Software design   2018-2019 Spring Lab help in about a dozen modules    Databases I teach multiple flavours of this module: databases and interfaces is the undergraduate module, while databases, interfaces and software design principles is the postgraduate version of the module.</description>
     </item>
     
