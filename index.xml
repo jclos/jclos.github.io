@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeremie Clos&#39;s personal page on Jeremie Clos</title>
+    <title>Jeremie Clos</title>
     <link>https://jclos.github.io/</link>
-    <description>Recent content in Jeremie Clos&#39;s personal page on Jeremie Clos</description>
+    <description>Recent content on Jeremie Clos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jclos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -68,6 +68,27 @@ This module is part of the Human-Computer Interaction theme, and the Artificial 
       <guid>https://jclos.github.io/projects/</guid>
       <description>Projects 1. Read this first If you contact me and it is obvious from your e-mail that you did not read this page, I will ignore your request.
 Because 2020 was a dumpster fire of a year, and the world does not seem to be going in an upward direction, I am progressively shifting my focus to supervising projects for social good, i.e. projects which have a net positive or at least a net neutral ethical footprint.</description>
+    </item>
+    
+    <item>
+      <title>Ramblings</title>
+      <link>https://jclos.github.io/ramblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jclos.github.io/ramblings/</guid>
+      <description>Ramblings and random thoughts The goal of this page is to act as a FAQ I can point my students to for specific issues.
+ [2021-03-07] Sending e-mails and basic academic politeness  </description>
+    </item>
+    
+    <item>
+      <title>Sending e-mails and basic academic politeness</title>
+      <link>https://jclos.github.io/posts/emails-and-politeness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jclos.github.io/posts/emails-and-politeness/</guid>
+      <description>Back to ramblings
+Sending e-mails and basic academic politeness Jeff Leek has an excellent blog post from 2011 on getting e-mails responses from busy people. While his recommendations are quite strict, they are a good idea of general guidelines university students should pick up when trying to communicate with most academics, who are almost always busy people. His rules are the following:
+ Limit the number of e-mails you send to that person to one a day.</description>
     </item>
     
     <item>

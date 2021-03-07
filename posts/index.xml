@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jeremie Clos</title>
+    <link>https://jclos.github.io/posts/</link>
+    <description>Recent content in Posts on Jeremie Clos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jclos.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sending e-mails and basic academic politeness</title>
+      <link>https://jclos.github.io/posts/emails-and-politeness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jclos.github.io/posts/emails-and-politeness/</guid>
+      <description>Back to ramblings
+Sending e-mails and basic academic politeness Jeff Leek has an excellent blog post from 2011 on getting e-mails responses from busy people. While his recommendations are quite strict, they are a good idea of general guidelines university students should pick up when trying to communicate with most academics, who are almost always busy people. His rules are the following:
+ Limit the number of e-mails you send to that person to one a day.</description>
+    </item>
+    
+  </channel>
+</rss>
