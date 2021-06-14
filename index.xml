@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://jclos.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A reading list for the starting grad student</title>
+      <link>https://jclos.github.io/posts/a-reading-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jclos.github.io/posts/a-reading-list/</guid>
+      <description>Go back to ramblings
+A reading list for the starting grad student One thing I deeply regret about starting my graduate studies is my progressive loss of taste for casual reading. You feel trapped between wanting to read and the guilt of the reading material not being related to your work and end up associating the two, leading to simply not reading at all. Here is an attempt at a reading list of books about academia which I found useful, entertaining or something in between:</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://jclos.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jclos.github.io/about/</guid>
-      <description>Work experience    Year Employer Title     2021 - Present University of Nottingham Research Fellow @ TAS Hub   2019 - 2019 University of Nottingham Research Fellow @ ENLIVEN   2018 - Present University of Nottingham Teaching Associate   2017-2017 Robert Gordon University Research Assistant   2015-2017 Cognitive Geology Data Scientist   2009-2012 IRIT Research Lab Summer Research Assistant    Education PhD thesis Robert Gordon University (Aberdeen, Scotland)</description>
+      <description>Work experience    Year Employer Title     2021 - 2023 University of Nottingham Research Fellow @ TAS Hub   2019 - 2019 University of Nottingham Research Fellow @ ENLIVEN   2018 - Present University of Nottingham Teaching Associate   2017-2017 Robert Gordon University Research Assistant   2015-2017 Cognitive Geology Data Scientist   2009-2012 IRIT Research Lab Summer Research Assistant    Education PhD thesis Robert Gordon University (Aberdeen, Scotland)</description>
     </item>
     
     <item>
@@ -78,7 +88,7 @@ Because 2020 was a dumpster fire of a year, and the world does not seem to be go
       
       <guid>https://jclos.github.io/ramblings/</guid>
       <description>Ramblings and random thoughts The goal of this page is to act as a FAQ I can point my students to for specific issues.
- [2021-03-07] Sending e-mails and basic academic politeness  </description>
+ [2021-03-07] Sending e-mails and basic academic politeness [2021-04-08] A reading list  </description>
     </item>
     
     <item>
