@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jclos.github.io/posts/a-reading-list/</loc>
-  </url>
-  
-  <url>
     <loc>https://jclos.github.io/about/</loc>
   </url>
   
@@ -27,10 +23,6 @@
   </url>
   
   <url>
-    <loc>https://jclos.github.io/posts/lifting-weights/</loc>
-  </url>
-  
-  <url>
     <loc>https://jclos.github.io/hii/</loc>
   </url>
   
@@ -40,14 +32,6 @@
   
   <url>
     <loc>https://jclos.github.io/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jclos.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jclos.github.io/ramblings/</loc>
   </url>
   
   <url>
@@ -63,11 +47,7 @@
   </url>
   
   <url>
-    <loc>https://jclos.github.io/posts/writing-badly/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jclos.github.io/posts/slicing-pies/</loc>
+    <loc>https://jclos.github.io/projects/</loc>
   </url>
   
 </urlset>
