@@ -23,15 +23,15 @@
   </url>
   
   <url>
+    <loc>https://jclos.github.io/dsml/</loc>
+  </url>
+  
+  <url>
     <loc>https://jclos.github.io/dis/</loc>
   </url>
   
   <url>
     <loc>https://jclos.github.io/hii/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jclos.github.io/</loc>
   </url>
   
   <url>
@@ -52,6 +52,10 @@
   
   <url>
     <loc>https://jclos.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jclos.github.io/</loc>
   </url>
   
 </urlset>
